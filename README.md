@@ -1,2 +1,9 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Vd5ddOPa)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19987489&assignment_repo_type=AssignmentRepo)
+(No salia si habia que llenarlo pero preferí hacerlo de todas formas)
+
+Añadi una introduccion al enunciado inspirandome en los sets e interrogaciones (espero que no haya problema D: ), Los testcases prueban los casos bordes donde:
+
+* En la lista habian partidos repetidos
+* El equipo no tenia mas partidos por jugar
+* La lista partidos esta vacia
+
+con la funcion que entregaron siempre se agregaba el nombre del equipo que se estaba revisando, por enunciado no deberia ser asi por lo que lo omoti en mis outputs, como no especificicaba nada de los inputs - outputs les di un formato propio inspirandome en sets y tareas anteriores donde tambien solo se debian definidir las funciones
